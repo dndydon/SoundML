@@ -3,7 +3,7 @@ Apple Swift Machine Learning System for Analysis of Sound Scenes and Events
 
 SoundML will use Apple Swift CoreML CreateML tools and develop iOS and MacOS apps that allow users to set up iOS devices to "listen" and recognize sounds for various purposes.
 
-An example demo App is included here that listens to your home and recognizes sounds that may or may not generate alerts -- a prototype audio home security system. For example, breaking glass will generate an alert. Barking dogs will generate an alert. Doorbell or knocking on the door will generate an alert. You get the idea.
+An example demo App is included here that listens to your home and recognizes sounds that may or may not generate alerts -- a prototype audio home security system. For example, breaking glass will generate an alert. Barking dogs (in your house) will generate an alert. A doorbell ring or knock on the door will generate an alert. You get the idea.
 
 This project is about developing Swift sound analysis libraries and apps that take advantage of Machine Learning models to "learn" what happens in a typical sound scene, and label those events accurately.
 
