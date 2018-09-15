@@ -15,6 +15,6 @@ Sound scenes are idiosyncratic -- even common sounds, when recognized, will have
 Heittola T., Çakır E., Virtanen T. (2018) The Machine Learning Approach for Analysis of Sound Scenes and Events. In: Virtanen T., Plumbley M., Ellis D. (eds) Computational Analysis of Sound Scenes and Events. Springer, Cham
 
 ## Community Hub
-http://dcase.community/community_info
-https://github.com/TUT-ARG
+- http://dcase.community/community_info
+- https://github.com/TUT-ARG
 
